@@ -1,0 +1,9 @@
+1.How to conver block level to inline element
+h1{
+    display: inline;
+}
+
+2.How to conver inline level into block element
+a{
+    display:block;
+}

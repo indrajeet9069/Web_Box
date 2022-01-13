@@ -1,0 +1,4 @@
+this maintain box size without hille and dule 
+.box2{
+    box-sizing:border-box;
+}
